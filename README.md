@@ -1,4 +1,4 @@
-# GeoLocator App
+# GeoLoc App
 A Live location sharing app created in Flutter using Firebase as the backend.
 
 
